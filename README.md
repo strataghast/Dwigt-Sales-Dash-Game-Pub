@@ -1,7 +1,7 @@
 # Dwigt-Sales-Dash-Game-Pub
 Topdown 2d Pixel Art Game
 
-https://itch.io/embed-upload/9870433?color=282828
+[PLAY] https://strataghast.itch.io/dwigt-sales-dash
 
 The files within this repository include all scripts utilized in this project. 
 
